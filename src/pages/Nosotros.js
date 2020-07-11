@@ -17,7 +17,7 @@ const Nosotros = () => {
 
         <p>Competidores internacionales y de alta liga compiten con dos partes: un programa corto (2:45+/-5) y otro largo (hombres: 4:30 +/- 10” y mujeres: 4:15 a 4:30). El último Panamericano en 2019 fue en la sede en Lima 2019.</p>
 
-        <h4>Palapras claves</h4>
+        <h4>Palabras claves</h4>
 
         <p>Preparación:</p>
 

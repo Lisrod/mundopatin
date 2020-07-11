@@ -49,14 +49,14 @@ export default class Contact extends Component {
               </div>
               <div className="infoContacting">
                 <div className="iconContact">
-                <ButtonContainer>
-                        <span className="mr-2">
-                            <i className="fa fa-envelope" />
-                        </span>
-                </ButtonContainer>
+                  <ButtonContainer>
+                    <span className="mr-2">
+                      <i className="fa fa-envelope" />
+                    </span>
+                  </ButtonContainer>
                 </div>
                 <p>
-                <></>
+                  <></>
                   <a href="mailto:hola@mundopatin.com.uy">hola@mundopatin.com.uy</a>
                 </p>
                 <p>
