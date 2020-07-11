@@ -1,4 +1,5 @@
-This project was bootstrapped 
+This is a @liselen proyect.
+
 ## Available Scripts
 
 In the project directory, you can run:
