@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mundopatin/static/css/main.b57da4f6.chunk.css",
+    "main.js": "/mundopatin/static/js/main.42783ddf.chunk.js",
+    "main.js.map": "/mundopatin/static/js/main.42783ddf.chunk.js.map",
+    "runtime-main.js": "/mundopatin/static/js/runtime-main.a187aecd.js",
+    "runtime-main.js.map": "/mundopatin/static/js/runtime-main.a187aecd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/mundopatin/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.912fe148.chunk.js": "/mundopatin/static/js/2.912fe148.chunk.js",
+    "static/js/2.912fe148.chunk.js.map": "/mundopatin/static/js/2.912fe148.chunk.js.map",
+    "index.html": "/mundopatin/index.html",
+    "precache-manifest.a37957cc2b9b9577230deed1a005ba63.js": "/mundopatin/precache-manifest.a37957cc2b9b9577230deed1a005ba63.js",
+    "service-worker.js": "/mundopatin/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/mundopatin/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b57da4f6.chunk.css.map": "/mundopatin/static/css/main.b57da4f6.chunk.css.map",
+    "static/js/2.912fe148.chunk.js.LICENSE.txt": "/mundopatin/static/js/2.912fe148.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mundopatin/static/media/defaultBcg.2495b422.jpg",
+    "static/media/galeria-1.jpg": "/mundopatin/static/media/galeria-1.63c6969d.jpg",
+    "static/media/galeria-2.jpg": "/mundopatin/static/media/galeria-2.653e865f.jpg",
+    "static/media/galeria-3.jpg": "/mundopatin/static/media/galeria-3.189e6536.jpg",
+    "static/media/galeria-4.jpeg": "/mundopatin/static/media/galeria-4.f03b8eb5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a187aecd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.912fe148.chunk.js",
+    "static/css/main.b57da4f6.chunk.css",
+    "static/js/main.42783ddf.chunk.js"
+  ]
+}
