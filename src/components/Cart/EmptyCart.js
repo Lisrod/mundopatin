@@ -10,13 +10,13 @@ export default function EmpyCart() {
                     <h1>Carrito Vacio</h1>
                     <br></br>
                     <Link to="/productlist" className="ml-auto">
-                    <button>
-                        <span className="nav-item ml-5">
-                        </span>
-                        <h5>Vuelve a Productos para continuar la búsqueda</h5>
-                    </button>
-                </Link>
-               
+                        <button className="separador">
+                            <span className="nav-item ml-5">
+                            </span>
+                            <h5>Vuelve a Productos para continuar la búsqueda</h5>
+                        </button>
+                    </Link>
+
                 </div>
             </div>
         </div>
