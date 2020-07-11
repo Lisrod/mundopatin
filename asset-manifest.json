@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/mundopatin/static/css/main.b57da4f6.chunk.css",
-    "main.js": "/mundopatin/static/js/main.42783ddf.chunk.js",
-    "main.js.map": "/mundopatin/static/js/main.42783ddf.chunk.js.map",
+    "main.css": "/mundopatin/static/css/main.cbdc1295.chunk.css",
+    "main.js": "/mundopatin/static/js/main.cc684676.chunk.js",
+    "main.js.map": "/mundopatin/static/js/main.cc684676.chunk.js.map",
     "runtime-main.js": "/mundopatin/static/js/runtime-main.a187aecd.js",
     "runtime-main.js.map": "/mundopatin/static/js/runtime-main.a187aecd.js.map",
     "static/css/2.af3c1da9.chunk.css": "/mundopatin/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.912fe148.chunk.js": "/mundopatin/static/js/2.912fe148.chunk.js",
-    "static/js/2.912fe148.chunk.js.map": "/mundopatin/static/js/2.912fe148.chunk.js.map",
+    "static/js/2.f5cc22bf.chunk.js": "/mundopatin/static/js/2.f5cc22bf.chunk.js",
+    "static/js/2.f5cc22bf.chunk.js.map": "/mundopatin/static/js/2.f5cc22bf.chunk.js.map",
     "index.html": "/mundopatin/index.html",
-    "precache-manifest.a37957cc2b9b9577230deed1a005ba63.js": "/mundopatin/precache-manifest.a37957cc2b9b9577230deed1a005ba63.js",
+    "precache-manifest.2f0fc99863babcab08e5097469c5dd37.js": "/mundopatin/precache-manifest.2f0fc99863babcab08e5097469c5dd37.js",
     "service-worker.js": "/mundopatin/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/mundopatin/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.b57da4f6.chunk.css.map": "/mundopatin/static/css/main.b57da4f6.chunk.css.map",
-    "static/js/2.912fe148.chunk.js.LICENSE.txt": "/mundopatin/static/js/2.912fe148.chunk.js.LICENSE.txt",
+    "static/css/main.cbdc1295.chunk.css.map": "/mundopatin/static/css/main.cbdc1295.chunk.css.map",
+    "static/js/2.f5cc22bf.chunk.js.LICENSE.txt": "/mundopatin/static/js/2.f5cc22bf.chunk.js.LICENSE.txt",
+    "static/media/WS2020.jpg": "/mundopatin/static/media/WS2020.388620bb.jpg",
     "static/media/App.css": "/mundopatin/static/media/defaultBcg.2495b422.jpg",
     "static/media/galeria-1.jpg": "/mundopatin/static/media/galeria-1.63c6969d.jpg",
     "static/media/galeria-2.jpg": "/mundopatin/static/media/galeria-2.653e865f.jpg",
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.a187aecd.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.912fe148.chunk.js",
-    "static/css/main.b57da4f6.chunk.css",
-    "static/js/main.42783ddf.chunk.js"
+    "static/js/2.f5cc22bf.chunk.js",
+    "static/css/main.cbdc1295.chunk.css",
+    "static/js/main.cc684676.chunk.js"
   ]
 }

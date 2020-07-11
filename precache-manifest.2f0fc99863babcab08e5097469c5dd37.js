@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2e417c33bb1e9528674e72486e50b99",
+    "revision": "ea4a48ff2dd3e994aa1f820b7074fa82",
     "url": "/mundopatin/index.html"
   },
   {
-    "revision": "f8b9b0de9eca116824bd",
+    "revision": "150bf739a0aba0b165eb",
     "url": "/mundopatin/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ca6b2e6c6c7105f49d22",
-    "url": "/mundopatin/static/css/main.b57da4f6.chunk.css"
+    "revision": "45cf12a7aa41f03bea03",
+    "url": "/mundopatin/static/css/main.cbdc1295.chunk.css"
   },
   {
-    "revision": "f8b9b0de9eca116824bd",
-    "url": "/mundopatin/static/js/2.912fe148.chunk.js"
+    "revision": "150bf739a0aba0b165eb",
+    "url": "/mundopatin/static/js/2.f5cc22bf.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/mundopatin/static/js/2.912fe148.chunk.js.LICENSE.txt"
+    "url": "/mundopatin/static/js/2.f5cc22bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca6b2e6c6c7105f49d22",
-    "url": "/mundopatin/static/js/main.42783ddf.chunk.js"
+    "revision": "45cf12a7aa41f03bea03",
+    "url": "/mundopatin/static/js/main.cc684676.chunk.js"
   },
   {
     "revision": "5bd58716c0edf8c45e99",
     "url": "/mundopatin/static/js/runtime-main.a187aecd.js"
+  },
+  {
+    "revision": "388620bb8f1c63d5980dfcbc75fbddc2",
+    "url": "/mundopatin/static/media/WS2020.388620bb.jpg"
   },
   {
     "revision": "2495b422e1641bc6679c1a424547d39d",
